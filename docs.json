@@ -14,11 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Codeigniter 4",
             "pages": [
-              "index",
-              "codeigniter4",
-              "development"
+              "codeigniter4/ci4_installation",
             ]
           },
           {
