@@ -16,7 +16,8 @@
           {
             "group": "Codeigniter 4",
             "pages": [
-              "codeigniter4/ci4_installation",
+              "index",
+              "codeigniter4/installation"
             ]
           },
           {
